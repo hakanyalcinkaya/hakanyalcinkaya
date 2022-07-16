@@ -1,5 +1,6 @@
 # Hakan Yalçınkaya
 #### Developer / Instructor / YouTuber / Content Creator
+[![Hakan Yalçınkaya](assets/img/hy.png)](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1)
 
 ## Udemy
 [![MarkDown](assets/img/udemy-markdown.jpg)](https://www.udemy.com/course/markdown-ogren-basit-ama-cok-guclu-yaz-bicimi-ile-tanis/)
@@ -13,4 +14,5 @@
 [![Sıfırdan Python'da Uzmanlaş](assets/img/sifirdan-python-da-uzmanlas.jpeg)](https://vakademi.com.tr/home/category/yazilim/sifirdan-pythonda-uzmanlas/)
 [Sıfırdan Python'da Uzmanlaş (15 Saat & 2 Eğitmen)](https://vakademi.com.tr/home/category/yazilim/sifirdan-pythonda-uzmanlas/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanyalcinkaya&show_icons=true)
+## Youtube
+[![Youtube](assets/img/youtube.jpg)](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1)
