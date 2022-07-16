@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hakan Yalçınkaya
+#### Developer / Instructor / YouTuber / Content Creator
 
-<!--
-**hakanyalcinkaya/hakanyalcinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Udemy
+[![MarkDown](assets/img/udemy-markdown.jpg)](https://www.udemy.com/course/markdown-ogren-basit-ama-cok-guclu-yaz-bicimi-ile-tanis/)
+[Markdown Öğren: Basit ama Çok Güçlü Yazı Biçimi](https://www.udemy.com/course/markdown-ogren-basit-ama-cok-guclu-yaz-bicimi-ile-tanis/)
 
-Here are some ideas to get you started:
+## Kitap
+[![Sorularla Python](/assets/img/sorularla-python.2e1afb8c.jpg)](https://www.dr.com.tr/Kitap/Sorularla-Python-Ogreniyorum/Ercan-Bozkurt/Egitim-Basvuru/Bilgisayar/urunno=0001837379001)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Vakademi
+[![Sıfırdan Python'da Uzmanlaş](assets/img/sifirdan-python-da-uzmanlas.jpeg)](https://vakademi.com.tr/home/category/yazilim/sifirdan-pythonda-uzmanlas/)
+[Sıfırdan Python'da Uzmanlaş (15 Saat & 2 Eğitmen)](https://vakademi.com.tr/home/category/yazilim/sifirdan-pythonda-uzmanlas/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanyalcinkaya&show_icons=true)
