@@ -3,16 +3,24 @@
 [![Hakan Yalçınkaya](assets/img/hy.png)](https://bit.ly/hy-ytb-sb)
 
 ## Udemy
-[![MarkDown](assets/img/udemy-markdown.jpg)](https://bit.ly/hy-udemy-md)
+[![İki Eğitmen ile Sıfırdan Python Öğren](assets/img/iki-egitmen-ile-python-ogren.png)](http://lnk.ktlzr.co/gtupy)
 
-[Markdown Öğren: Basit ama Çok Güçlü Yazı Biçimi](https://bit.ly/hy-udemy-md)
+[İki Eğitmen ile Sıfırdan Python Öğren](http://lnk.ktlzr.co/gtupy)
 
+********************************
+
+[![Emmet ile HTML ve CSS'te Hızlı Kodlama Teknikleri Öğrenin](assets/img/emmet.jpeg)](http://lnk.ktlzr.co/gtemt)
+
+[Emmet ile HTML ve CSS'te Hızlı Kodlama Teknikleri Öğrenin](http://lnk.ktlzr.co/gtemt)
+
+********************************
+
+[![MarkDown](assets/img/markdown_2.jpg)](http://lnk.ktlzr.co/gtmrk)
+
+[Markdown Öğren: Basit ama Çok Güçlü Yazı Biçimi](http://lnk.ktlzr.co/gtmrk)
+********************************
 ## Kitap
-[![Sorularla Python](/assets/img/sorularla-python.2e1afb8c.jpg)](https://www.dr.com.tr/Kitap/Sorularla-Python-Ogreniyorum/Ercan-Bozkurt/Egitim-Basvuru/Bilgisayar/urunno=0001837379001)
-
-## Vakademi
-[![Sıfırdan Python'da Uzmanlaş](assets/img/sifirdan-python-da-uzmanlas.jpeg)](https://vakademi.com.tr/home/category/yazilim/sifirdan-pythonda-uzmanlas/)
-[Sıfırdan Python'da Uzmanlaş (15 Saat & 2 Eğitmen)](https://vakademi.com.tr/home/category/yazilim/sifirdan-pythonda-uzmanlas/)
-
+[![Sorularla Python](/assets/img/sorularla-python.2e1afb8c.jpg)](http://lnk.ktlzr.co/gtbk)
+********************************
 ## Youtube
-[![Youtube](assets/img/youtube.jpg)](https://bit.ly/hy-ytb-sb)
+[![Youtube](assets/img/youtube.jpg)](http://lnk.ktlzr.co/gtytb)
