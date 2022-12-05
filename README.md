@@ -7,7 +7,7 @@
 
 ********************************
 
-[![İki Eğitmen ile Sıfırdan Python Öğren](assets/img/iki-egitmen-ile-python-ogren.png)](http://lnk.ktlzr.co/gtupy)
+[![İki Eğitmen ile Sıfırdan Python Öğren](assets/img/iki-egitmen-ile-python-ogren.jpg)](http://lnk.ktlzr.co/gtupy)
 
 [İki Eğitmen ile Sıfırdan Python Öğren](http://lnk.ktlzr.co/gtupy)
 
