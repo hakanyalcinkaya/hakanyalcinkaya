@@ -3,8 +3,9 @@
 [![Hakan Yalçınkaya](assets/img/hy.png)](https://bit.ly/hy-ytb-sb)
 
 ## Udemy
-[![İki Eğitmen ile Sıfırdan Python Öğren](assets/img/udemy_python_django_v4.jpg)](http://lnk.ktlzr.co/gtdjf)
+[![Udemy: Sıfırdan Uçtan Uca Projelerle Python ve Django Eğitimi](assets/img/udemy_python_django_v4.jpg)](http://lnk.ktlzr.co/gtdj)
 
+[Udemy: Sıfırdan Uçtan Uca Projelerle Python ve Django Eğitimi](http://lnk.ktlzr.co/gtdj)
 ********************************
 
 [![İki Eğitmen ile Sıfırdan Python Öğren](assets/img/iki-egitmen-ile-python-ogren.jpg)](http://lnk.ktlzr.co/gtupy)
