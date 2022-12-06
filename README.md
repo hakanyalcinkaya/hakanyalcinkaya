@@ -1,6 +1,5 @@
 # Hakan Yalçınkaya
 #### Developer / Instructor / YouTuber / Content Creator
-[![Hakan Yalçınkaya](assets/img/hy.png)](https://bit.ly/hy-ytb-sb)
 
 ## Udemy
 [![Udemy: Sıfırdan Uçtan Uca Projelerle Python ve Django Eğitimi](assets/img/udemy_python_django_v4.jpg)](http://lnk.ktlzr.co/gtdj)
