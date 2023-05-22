@@ -2,6 +2,10 @@
 #### Developer / Instructor / YouTuber / Content Creator
 
 ## Udemy
+[![Udemy: Sıfırdan Projelerle JavaScript ve React 18.x Eğitimi](assets/img/udemy-react-v1.jpg)](http://lnk.ktlzr.co/gtreact)
+[Udemy: Sıfırdan Projelerle JavaScript ve React 18.x Eğitimi](http://lnk.ktlzr.co/gtreact)
+********************************
+
 [![Udemy: Sıfırdan Uçtan Uca Projelerle Python ve Django Eğitimi](assets/img/udemy_python_django_v4.jpg)](http://lnk.ktlzr.co/gtdj)
 
 [Udemy: Sıfırdan Uçtan Uca Projelerle Python ve Django Eğitimi](http://lnk.ktlzr.co/gtdj)
